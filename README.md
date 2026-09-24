@@ -19,7 +19,12 @@ RAW DATA → INFORMATION → INSIGHT → RISK / OPPORTUNITY → ACTION
 The interactive Streamlit dashboard enables analysts, policymakers, and researchers to explore crop production trends, yield patterns, climate variability, and the statistical associations between climate variables and agricultural productivity.
 
 ---
+---
+## 🚀 Live Project
 
+🔗 **Live Dashboard:** https://agroyield-analytics-bbphf2ftqwtympmmpqelst.streamlit.app/
+
+---
 ## Problem Statement
 
 Agricultural productivity in India is influenced by numerous environmental and production-related factors, including rainfall, temperature, cultivated area, crop type, and historical production patterns. Large volumes of agricultural data are available, but raw data alone does not provide an easy way to understand crop productivity trends or the relationship between agricultural output and climate conditions.
